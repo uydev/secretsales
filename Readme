@@ -1,0 +1,10 @@
+Hi,
+
+Once you have extracted to a folder, run "php script.php" for the application.
+
+Running "vendor/bin/phpunit WordCounterTest.php" runs a test.
+
+Kind regards,
+
+Uner YILMAZ
+
